@@ -7,7 +7,7 @@ title: Getting Started
 
 This guide covers the simplest and quickest way to get started using Blogger.
 
-## Setting up Blogger
+## 👾 Setting up Blogger
 
 Start by cloning the repository and running the setup script:
 
@@ -36,7 +36,7 @@ ENABLE_COMMENTS=true
 DISCORD_WEBHOOK_URL=https://your.discord.webhook/
 ```
 
-## Configuring mySQL
+## 🔨 Configuring mySQL
 
 ::: tip
 

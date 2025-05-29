@@ -7,7 +7,7 @@ title: Getting Started
 
 This guide covers the essentials of creating blog posts.
 
-## Creating a post
+## 📆 Creating a post
 
 Create a new ``.md`` file at ``blogger/public/posts``. Name it whatever you want.
 

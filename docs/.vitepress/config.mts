@@ -14,7 +14,7 @@ export default defineConfig({
         items: [
           {
             items: [
-              { text: 'Changelog', link: '/releases/v1.0.6' },
+              { text: 'Release Notes', link: '/releases/v1.0.6' },
               { text: 'Github Release', link: 'https://github.com/linuskangsoftware/blogger/releases/v1.0.6' }
             ]
           }
@@ -32,10 +32,13 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Reference',
+        text: 'API Reference',
         collapsed: false,
         items: [
-          { text: 'Blogger API', link: '/reference/api-reference'}
+          { text: 'BlogAPI', link: '/reference/apis/blog-api'},
+          { text: 'CommentAPI', link: '/reference/apis/comment-api'},
+          { text: 'PostAPI', link: '/reference/apis/post-api'},
+          { text: 'LegacyAPI', link: '/reference/apis/legacy-api'}
         ]
       },
       {
@@ -50,7 +53,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/linuskangsoftware/blogger' }
     ],
     footer: {
       message: 'Released under the Apache 2.0 license.',
