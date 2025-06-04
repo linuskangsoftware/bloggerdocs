@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Blogger",
   description: "The documentation site for setting up & configuring Blogger",
-  base: '/blogger/',
+  base: '/bloggerdocs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
