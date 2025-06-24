@@ -1,4 +1,8 @@
 # bloggerdocs
+
+> [!note]
+> ``linuskangsoftware/bloggerdocs`` has been deprecated in favour of the V2 docs available at https://blogger-docs.linuskang.au. If you are using a version below V2, it is highly recommended you upgrade versions - otherwise this repo is for `v1.0.0-v1.0.7`
+
 The documentation site for Blogger.
 
 ### Self-hosting the dev server
